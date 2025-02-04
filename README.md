@@ -1,13 +1,13 @@
 - 👀 I’m interested in Funky Programmmmmmmming
 
-- <h1 align="center">Hi 👋, I'm MubeenFaisal</h1>
+- <h1 align="center">Hi 👋, I'm Mubeen Faisal</h1>
 <h3 align="center">A Front end developer writing code that can scale and generate revenue</h3>
 
 - I’m currently working in **stealth mode 😉**
 
-- Lately, I am learning **Devops and Ethical Hacking**
+- Lately, I am learning **Devops and Web Developer**
 
-- Ask me about **React.js, JavaScript and 🐞 Bug Bounty Hunter | 🛡️ Red Teamer**
+- Ask me about **React.js, JavaScript and Node.js | Python**
 
 - How to reach me **mubeenfaisal03@gmail.com**
 
