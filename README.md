@@ -1,7 +1,7 @@
 - 👀 I’m interested in Funky Programmmmmmmming
 
 - <h1 align="center">Hi 👋, I'm MubeenFaisal</h1>
-<h3 align="center">A MERN/MEVN stack developer writing code that can scale and generate revenue</h3>
+<h3 align="center">A Front end developer writing code that can scale and generate revenue</h3>
 
 - I’m currently working in **stealth mode 😉**
 
